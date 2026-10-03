@@ -5,10 +5,8 @@ Currently working as a Security Engineer in South Korea.
 - Conducting web and mobile application penetration testing and vulnerability assessments
 - Performing penetration testing based on simulated real-world attack scenarios
 - Interested in Red Teaming, Active Directory, and Offensive Security
+---
 <br>
-<br>
-
-
 
 ## 🛠 Tech Stack
 
@@ -24,11 +22,13 @@ Currently working as a Security Engineer in South Korea.
 #### Languages
   <!--Python-->  <!--JavaScript-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<br>
-<br>
-<br>
+
+---
+
 <br>
 
 ## 📝 Notes
 
 Using this GitHub to document what I learn through hands-on practice🌼
+
+---
